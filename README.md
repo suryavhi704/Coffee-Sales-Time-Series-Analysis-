@@ -57,7 +57,7 @@ This project emphasizes **knowing when to stop analysis** as a crucial data scie
 
 ---
 
-![Overview]("https://github.com/suryavhi704/Coffee-Sales-Time-Series-Analysis-/blob/main/Time%20Series%20Image.png?raw=true)
+![Overview](https://github.com/suryavhi704/Coffee-Sales-Time-Series-Analysis-/blob/main/Time%20Series%20Image.png?raw=true)
 
 ---
 
