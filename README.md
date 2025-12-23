@@ -57,6 +57,10 @@ This project emphasizes **knowing when to stop analysis** as a crucial data scie
 
 ---
 
+![Overview]("https://github.com/suryavhi704/Coffee-Sales-Time-Series-Analysis-/blob/main/Time%20Series%20Image.png?raw=true)
+
+---
+
 ## 🤝 Acknowledgement
 I would like to sincerely thank **Unified Mentor Private Limited** for providing this internship opportunity and project guidance, which helped strengthen my analytical thinking and practical understanding of time series analysis.
 
